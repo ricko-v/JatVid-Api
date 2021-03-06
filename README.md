@@ -1,6 +1,8 @@
 # JatVid-API
 Api Covid daerah Jawa Tengah
 
+[Demo API](http://twindev.herokuapp.com/doc/jatvid)
+
 **Note :** data diambil dari website resmi [corona.jatengprov.go.id](https://corona.jatengprov.go.id)
 
 ## Installing
